@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AbsentPlays
 - 👀 I’m interested in gaming and coding
 - 🌱 I’m currently learning new ways to code
-- 💞️ I’m looking to collaborate on anything dealing with code
+- 💞️ I’m looking to collaborate on anything dealing with code and gaming.
 - 📫 How to reach me message me.
 
 <!---

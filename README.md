@@ -2,7 +2,7 @@
 
 # ᴀʙꜱᴇɴᴛᴘʟᴀʏꜱ
 
-<img src="https://raw.githubusercontent.com/AbsentPlays/AbsentPlays/main/LogoAnim.jpg" width="160px" alt="AbsentPlays Logo" style="border-radius: 50%;" />
+<img src="https://github.com/AbsentPlays/AbsentPlays/blob/main/LogoAnim.gif" width="160px" alt="AbsentPlays Logo" style="border-radius: 50%;" />
 
 ### *wᴇʟᴄᴏᴍᴇ ᴛᴏ ᴍʏ ɢɪᴛʜᴜʙ ᴜɴɪᴠᴇʀꜱᴇ*
 
